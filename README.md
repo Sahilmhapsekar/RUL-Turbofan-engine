@@ -10,7 +10,7 @@ This project aims to predict the **Remaining Useful Life (RUL)** of turbofan eng
 - Evaluated model performance using **Root Mean Square Error (RMSE)** for each engine  
 
 ## Tools and Technologies
-Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn, Matplotlib  
+Python, Keras, Seaborn, Matplotlib  
 
 ## Contributors
 **Sahil Mhapsekar**, **Jai Kumar Prajapti**, **Harsh Kulkarni**
